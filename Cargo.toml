@@ -1,0 +1,6 @@
+[package]
+name = "rubikscube"
+version = "0.1.0"
+authors = ["valyakuttan <kuttiparichathilbimal@gmail.com>"]
+
+[dependencies]
